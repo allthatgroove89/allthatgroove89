@@ -7,7 +7,6 @@
 - 👀 I’m interested in Machine Learning, Trading, Project Managment, Data Manipulation, Web Architecture 
 - 💻 I’m currently learning NodeJS, ExpressJS, MongoDB, TypeScript,  BCrypt, MVC.
 - 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I Love music and I play drums!!🥁
 - 📫 How to reach me  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-vera-9014bbb0) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saul.vera787@gmail.com)
 
